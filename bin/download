@@ -1,0 +1,4 @@
+#!/usr/bin/env node
+
+var get_all_link = require('./get_all_link');
+get_all_link.download();
